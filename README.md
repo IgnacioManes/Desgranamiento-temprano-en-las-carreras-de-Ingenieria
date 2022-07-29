@@ -1,4 +1,4 @@
-# Desgranamiento-temprano-en-las-carreras-de-Ingenieria
+# Desgranamiento temprano en las carreras de Ingenieria
 ## Dataset
 
 ## Automatic EDA
