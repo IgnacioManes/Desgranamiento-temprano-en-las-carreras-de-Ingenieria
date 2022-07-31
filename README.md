@@ -9,6 +9,6 @@ Models EDA.ipynb
 ## Pycaret Anomaly Detection
 pycaret anomaly detection.ipynb
 ## Teapot Classification
-Teapot model
+Teapot model.ipynb
 ## Pycaret Classification
 pycaret supervised learning.ipynb
